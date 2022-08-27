@@ -17,7 +17,7 @@ alt="How to learn to program? [tips]" width="240" height="180" border="10" /></a
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Uki2b7zpg_s" target="_blank"><img src="http://img.youtube.com/vi/Uki2b7zpg_s/0.jpg" 
 alt="How to learn to program? [tips]" width="240" height="180" border="10" /></a>
 <br/>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Uki2b7zpg_s" target="_blank">www.coinminer.com.br</a>
+<a href="https://www.coinminer.com.br" target="_blank">www.coinminer.com.br</a>
 
 ## Social Information
 [<img src='https://raw.githubusercontent.com/alexbarbosadev/alexbarbosadev/main/src/images/icons/linked-in.svg' alt='linkedin - Alex Barbosa Dev' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alex-barbosa-dev)  [<img src='https://raw.githubusercontent.com/alexbarbosadev/alexbarbosadev/main/src/images/icons/youtube.svg' alt='YouTube - Alex Barbosa Dev' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC6srvoRtMNz0SGLEkO6zBmg)
