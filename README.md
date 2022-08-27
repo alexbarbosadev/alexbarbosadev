@@ -20,7 +20,6 @@ alt="How to learn to program? [tips]" width="240" height="180" border="10" /></a
 #### <a href="https://www.coinminer.com.br" target="_blank">Coin Miner - Mining and Raffle</a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Uki2b7zpg_s" target="_blank"><img src="http://img.youtube.com/vi/Uki2b7zpg_s/0.jpg" 
 alt="How to learn to program? [tips]" width="240" height="180" border="10" /></a>
-<p>This project allows participants to mine the monero cryptocurrency.</p>
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbarbosadev&show_icons=true&theme=tokyonight&count_private=true)
