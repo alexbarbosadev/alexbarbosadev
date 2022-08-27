@@ -7,4 +7,4 @@ years of experience in the area of software development.
 Alex Barbosa is a proactive developer, responsible and committed to the
 activities he is developing.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbarbosadev&show_icons=true&theme=tokyonight&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexbarbosadev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
