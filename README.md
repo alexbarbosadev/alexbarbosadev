@@ -1,3 +1,5 @@
+![Software Developer Banner](https://github.com/alexbarbosadev/alexbarbosadev/blob/main/src/images/profile/GitHub%20Profile%20Banner%20-%20transparent%20-%20br.png?raw=true)
+
 # Alex Barbosa
 ##### I'm a Senior Full Stack Software Developer Microsoft Certified Solutions Associate (MCSA) and ITIL Foundation Certificate in IT Service Management.
 
